@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+#myLable{
+    font: Roboto;
+    font-size: 5em;
+}
+
+#myButton{
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
